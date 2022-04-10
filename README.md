@@ -11,7 +11,7 @@ These are the codes and submitted  paper for lithobot application. It is an Auto
 2. In the file: user_file.py user can upload their own data file and we will predict the output lithofacies based on their dataset. It will also give feedback on the dataset, so that user can consider getting more relevant features added to their data set, it also shows how much the results can improve if they follow the feedback. 
 
 **Their is also .ipynb file**
-1. d
+1. lithobot_train.ipynb
 
 **Details of the these files are as follows:**
 1. In this file, we have converted the complete training code into a google colab file so that users who wish to see the results in colaboratory file, can use it. 
