@@ -8,4 +8,4 @@ These are the codes and submitted  paper for lithobot application. It is an Auto
 
 **Details of the these files are as follows:**
 1. In the file: training.py you will find the automatic data loading from force-2020 website, exploratory data analysis, data preprocessing, training of several models and predictions on test data. 
-2. In the file: user_file.py user can upload their own data file and we will predict the output lithofacies based on their dataset. 
+2. In the file: user_file.py user can upload their own data file and we will predict the output lithofacies based on their dataset. It will also give feedback on the dataset, so that user can consider getting more relevant features added to their data set, it also shows how much the results can improve if they follow the feedback. 
