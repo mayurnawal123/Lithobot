@@ -1,3 +1,6 @@
+You can use the below citation: 
+Nawal, Mayur, Kumar, Santosh, and Bharath Shekar. "LithoBot: An AutoML approach to identify lithofacies." Paper presented at the SEG/AAPG International Meeting for Applied Geoscience & Energy, Houston, Texas, USA, August 2022. doi: https://doi.org/10.1190/image2022-3751381.1
+
 # Lithobot
 These are the codes and submitted  paper for lithobot application. It is an Auto ML code to predict lithofacies from well logs. 
 
